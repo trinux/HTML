@@ -1,0 +1,39 @@
+!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: #5e17eb;
+}
+h1 { color: white; }
+h1 {
+ text-align:center
+}
+h2 { color: white; }
+h2 {
+ text-align:center
+}
+h3 { color: white; }
+h3 {
+ text-align:center
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>
+</head>
+<body>
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*lJw5Xri4hBv9pwqnWWlNRQ.png" alt="websitepic" class = "center">
+<h1>We have successfully created a CI/CD using a S3 Bucket, GitHub & Codepipeline</h1>
+<h1>What is CI/CD?</h1>
+<h2> CI/CD is Continuous Intergration and Continuous delivery</h2>
+<h3> CI/CD Benefits </h3>
+<h3> ~ Faster releases</h3>
+<h3> ~ Cost reduction</h3>
+<h3> ~ Easier to detect bugs</h3>
+<h3> ~ Easier monitoring</h3>
+</body>
+</html>
